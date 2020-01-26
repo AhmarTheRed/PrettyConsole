@@ -1,2 +1,2 @@
 # PrettyConsole
-A wrap around System.Console to allowe for quick success, warnings and errors.
+A quick wrap I made around System.Console to allow for fast success, warnings and errors.
