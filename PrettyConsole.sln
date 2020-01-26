@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrettyConsole", "PrettyConsole\PrettyConsole.csproj", "{C39704C3-E7BC-45E1-9DA7-E9FE681FA467}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C39704C3-E7BC-45E1-9DA7-E9FE681FA467}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C39704C3-E7BC-45E1-9DA7-E9FE681FA467}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C39704C3-E7BC-45E1-9DA7-E9FE681FA467}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C39704C3-E7BC-45E1-9DA7-E9FE681FA467}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4CD207D3-F05E-40D5-A348-681355FB91B6}
+	EndGlobalSection
+EndGlobal
