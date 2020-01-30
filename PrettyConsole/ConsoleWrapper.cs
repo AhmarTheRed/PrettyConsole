@@ -2,7 +2,7 @@
 
 namespace PrettyConsole
 {
-    public class ConsoleWrapper : IDisposable
+    public class ConsoleWrapper : IConsoleWrapper
     {
         // Defaults
         private readonly ConsoleColor _successColour = ConsoleColor.DarkGreen;
