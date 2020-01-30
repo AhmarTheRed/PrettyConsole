@@ -1,9 +1,8 @@
-name: .NET Core
+name: develop CI
 
 on:
   push:
-    branches: 
-      - master
+    branches:
       - develop
 
 jobs:
